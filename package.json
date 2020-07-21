@@ -1,0 +1,27 @@
+{
+  "name": "geocoding-maps",
+  "version": "1.0.0",
+  "description": "Geocoding in google maps",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klupzor/Geocoding-Maps.git"
+  },
+  "keywords": [
+    "maps",
+    "geocoding"
+  ],
+  "author": "Klupzor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klupzor/Geocoding-Maps/issues"
+  },
+  "homepage": "https://github.com/Klupzor/Geocoding-Maps#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
